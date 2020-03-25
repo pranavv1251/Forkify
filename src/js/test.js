@@ -1,2 +1,2 @@
 console.log("Imported module");
-export default 22;
+export default 99;
